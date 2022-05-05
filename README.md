@@ -39,7 +39,8 @@ located at Doc folder
 
 # Tested Model 
 1. RMD L 7015 
-2. RMD L 9015/9010? (yet to test)
+2. RMD L 9015/9010
+3. RMD X8 Series
  
 # Test setup 
 1. Connect the stm32F446RE to a can tranceiver (TJA1050) via PA11 and PA12
